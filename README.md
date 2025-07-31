@@ -5,7 +5,7 @@ TailwindCSS landing page for practice or start a new project with VanillaJS and 
 
 ## Demo URL
 <p align="left">
-  <a href="https://3moondev.com/demos/windmerch/">
+  <a href="https://adhir2099.github.io/windMerchStore/">
     <b>Visit demo here</b>
   </a>
 </p>
