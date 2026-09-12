@@ -14,17 +14,8 @@ A responsive, dependency-free storefront landing page built with semantic HTML, 
 
 Open `index.html` in a modern browser. The page uses remote placeholder photography from `picsum.photos`, so an internet connection is needed to load images.
 
-## Test
-
-The interaction helpers and product-card rendering are covered by Node's built-in test runner:
-
-```powershell
-node --test tests/app.test.mjs
-```
-
 ## Project structure
 
 - `index.html` - accessible storefront structure
 - `assets/css/style.css` - tokens, responsive layout, interactive states
 - `assets/js/app.js` - product data, cart, menus, newsletter behavior
-- `tests/app.test.mjs` - interaction and rendering contracts
